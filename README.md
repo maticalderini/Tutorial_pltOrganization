@@ -6,7 +6,7 @@ To use, simply, clone or download and follow these steps:
 
 0. Recommneded: create and activate new virtual environment for the project
 ```
-venv <environment name>
+virtualenv <environment name>
 <environment name>\scripts\activate
 ```
 1. Install requirements (jupyter and matplotlib)
